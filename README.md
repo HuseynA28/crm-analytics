@@ -67,7 +67,6 @@ Follow these steps to run the project:
 
 ## Project Structure
 
-your-repo-name/
 - ├── .idea 
 - ├── cltv 
 - ├── cltv_prediction 
