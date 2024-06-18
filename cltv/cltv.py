@@ -10,7 +10,7 @@
 # 6. Customer Value (customer_value = average_order_value * purchase_frequency)
 # 7. Customer Lifetime Value (CLTV = (customer_value / churn_rate) x profit_margin)
 # 8. Creating Segments
-# 9. BONUS: Functionizing All Operations
+
 
 ##################################################
 # 1. Data Preparation
