@@ -68,16 +68,16 @@ Follow these steps to run the project:
 ## Project Structure
 
 your-repo-name/
-├── .idea/
-├── cltv/
-├── cltv_prediction/
-├── datasets/
-│ └── online_retail_II.xlsx
+├── .idea /
+├── cltv /
+├── cltv_prediction /
+├── datasets /
+│ └── online_retail_II.xlsx /
 ├── rfm/
-│ └── rfm.csv
-├── .DS_Store
-├── README.md
-├── rfm_segmentation.py
+│ └── rfm.csv /
+├── .DS_Store /
+├── README.md /
+├── rfm_segmentation.py /
 └── requirements.txt
 
 
